@@ -1,0 +1,85 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.containerTexto{
+
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+}
+
+.container{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 75px;
+    padding-bottom: 20px;
+    
+}
+
+
+.img{
+
+    width: 300px;
+}
+.card{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+input{
+
+    background-color: rgb(202, 202, 202);
+    border-radius: 15px;
+    text-align: center;
+    padding: 3px;
+    margin-top: 15px;
+}
+
+.valor01{
+
+    width: 50px;
+}
+
+.valor02{
+
+    width: 50px;
+}
+
+.valor03{
+
+    width: 50px;
+}
+
+.texto{
+
+    font-size: 25px;
+    color: rgb(46, 43, 77);
+}
+
+.botonesTareas{
+
+    margin-top: 50px;
+}
+
+button{
+    color: white;
+    padding: 10px;
+    margin-top: 20px;
+    background-color: rgb(92, 92, 92);
+    border: none;
+    border-radius: 25px;
+    cursor: pointer;
+    border: solid black 2px;
+}
