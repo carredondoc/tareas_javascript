@@ -1,4 +1,4 @@
-// Get references to the select element and the button
+
 const elemento01 = document.querySelector("#valor01");
 const elemento02 = document.querySelector("#valor02");
 const elemento03 = document.querySelector("#valor03");
